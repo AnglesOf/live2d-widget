@@ -2,7 +2,7 @@
  * Live2D Widget
  * https://github.com/stevenjoezhang/live2d-widget
  */
-
+live2d_settings['waifuDraggable'] = 'unlimited';
 function loadWidget(config) {
 	let { waifuPath, apiPath, cdnPath } = config;
 	let useCDN = false, modelList;
