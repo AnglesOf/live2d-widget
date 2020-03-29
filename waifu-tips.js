@@ -1,6 +1,6 @@
 /*
  * Live2D Widget
- * https://github.com/stevenjoezhang/live2d-widget
+ * https://github.com/AnglesOf/live2d-widget
  */
 
 function loadWidget(config) {
